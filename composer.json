@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Xandros15\\Saya\\": "src/"
+    }
+  },
+  "require": {
+    "react/socket": "^0.7.2"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^3.2"
+  }
+}
